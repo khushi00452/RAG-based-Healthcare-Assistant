@@ -36,7 +36,6 @@ _Query: What are the symptoms of pneumonia?_
 
 ```
 rag-healthcare-assistant/
-├── data/                         # (Optional) Sample data or notes
 ├── src/
 │   ├── mental_health.py          # Detects mental health and crisis keywords
 │   ├── routing.py                # Routes query to correct pipeline
